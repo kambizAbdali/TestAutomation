@@ -1,0 +1,699 @@
+06-Jul-2023-14:26:42 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-14:26:46 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-15:03:55 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-15:03:58 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-15:08:25 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-15:08:26 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-15:08:55 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+06-Jul-2023-15:08:55 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+06-Jul-2023-15:08:55 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Jul-2023-15:08:57 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-15:08:58 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-15:09:00 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-15:09:01 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-15:14:10 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-15:14:21 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-15:19:38 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-15:19:53 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-15:19:53 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-15:20:14 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-15:20:15 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-15:20:37 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+06-Jul-2023-15:20:37 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+06-Jul-2023-15:20:37 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Jul-2023-15:20:38 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-15:20:40 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-15:20:41 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-15:20:43 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-15:20:43 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+06-Jul-2023-15:20:43 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Jul-2023-15:20:43 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:20:43 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:20:44 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:20:45 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:20:45 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:20:46 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:20:46 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:20:47 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:20:47 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:20:48 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:20:48 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:20:49 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:20:49 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:20:50 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:20:50 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:20:51 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:20:51 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:20:52 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:20:52 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:20:53 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:20:53 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:20:54 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:20:54 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:20:55 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:20:55 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:20:56 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:20:57 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:20:57 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:20:58 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:20:58 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:20:59 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:20:59 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:00 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:00 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:01 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:01 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:02 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:02 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:03 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:03 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:04 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:04 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:05 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:05 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:06 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:06 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:07 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:08 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:08 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:09 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:09 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:10 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:10 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:11 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:11 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:12 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:12 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:13 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:13 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:14 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:14 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:15 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:15 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:16 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:16 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:17 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:17 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:18 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:18 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:19 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:19 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:20 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:21 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:21 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:22 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:22 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:23 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:23 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:24 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:24 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:25 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:25 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:26 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:26 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:27 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:27 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:28 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:28 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:29 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:29 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:30 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:30 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:31 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:31 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:32 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:33 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:33 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:34 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:34 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:35 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:35 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:36 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:36 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:37 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:37 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:38 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:38 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:39 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:39 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:40 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:40 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:41 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:41 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:42 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:42 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:43 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:43 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:21:48 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+06-Jul-2023-15:22:56 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-15:22:57 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-15:28:15 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-15:28:19 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-15:31:24 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-15:31:25 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-15:31:54 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-15:31:55 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-15:37:45 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-15:37:49 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-15:40:58 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-15:40:59 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-15:41:47 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+06-Jul-2023-15:41:47 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Jul-2023-15:41:48 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:41:50 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:41:51 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:41:53 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:41:55 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:41:56 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:41:58 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:41:59 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:42:01 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:42:02 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:42:04 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:42:05 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:42:07 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:42:08 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:42:10 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:42:12 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:42:13 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:42:15 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:42:16 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:42:18 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:42:19 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:42:21 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-15:43:36 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-15:43:38 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-15:52:03 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-15:52:06 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-15:53:46 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-15:53:47 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-16:00:54 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-16:01:08 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-16:01:08 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-16:02:14 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+06-Jul-2023-16:05:49 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-16:05:52 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-16:11:34 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-16:11:39 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-16:13:18 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+06-Jul-2023-16:13:18 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Jul-2023-16:13:19 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:13:21 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:13:23 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:13:24 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:13:26 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:13:27 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:13:29 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:13:30 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:13:32 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:13:36 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:14:25 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-16:14:26 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-16:15:05 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-16:15:06 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-16:17:56 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+06-Jul-2023-16:17:56 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Jul-2023-16:17:57 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:17:59 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:00 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:02 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:03 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:05 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:06 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:08 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:09 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:11 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:12 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:14 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:16 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:17 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:19 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:20 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:22 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:23 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:25 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:26 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:28 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:29 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:31 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:33 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:34 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:36 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:37 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:39 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:40 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:42 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:43 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:45 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:47 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:48 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:50 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:51 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:53 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:54 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:56 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:18:57 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:20:56 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-16:20:58 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-16:22:04 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+06-Jul-2023-16:22:04 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Jul-2023-16:22:06 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:07 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:09 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:10 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:12 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:14 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:15 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:17 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:18 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:20 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:21 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:23 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:24 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:26 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:27 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:29 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:31 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:32 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:34 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:35 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:37 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:38 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:40 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:41 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:43 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:45 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:46 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:48 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:49 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:51 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:52 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:54 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:55 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:57 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:22:59 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:23:00 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:23:02 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:23:03 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:23:05 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:49:37 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-16:49:40 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-16:51:01 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+06-Jul-2023-16:51:01 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Jul-2023-16:51:02 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:03 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:05 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:07 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:08 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:10 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:11 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:13 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:14 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:16 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:17 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:19 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:20 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:22 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:23 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:25 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:27 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:28 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:30 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:31 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:33 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:34 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:36 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:37 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:39 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:40 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:42 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:43 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:45 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:47 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:48 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:50 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:51 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:53 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:54 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:56 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:57 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:51:59 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:52:01 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:52:02 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: select2--container
+06-Jul-2023-16:57:02 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-16:57:03 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-16:57:56 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+06-Jul-2023-16:57:57 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Jul-2023-16:57:58 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:57:59 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:01 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:02 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:04 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:05 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:07 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:08 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:10 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:12 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:13 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:15 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:16 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:18 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:19 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:21 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:23 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:24 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:26 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:27 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:29 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:31 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:33 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:34 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:36 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:37 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:39 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:40 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:42 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:44 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:45 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:47 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:48 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:50 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:51 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:53 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:54 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:56 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-16:58:57 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:01:01 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-17:01:02 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-17:03:26 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-17:03:27 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-17:04:15 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+06-Jul-2023-17:04:15 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Jul-2023-17:04:16 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:04:18 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:04:19 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:04:21 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:04:22 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:04:24 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:04:25 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:04:27 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:04:28 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:04:30 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:04:32 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:04:33 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:04:35 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:04:36 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:04:38 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:04:39 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:04:41 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:04:42 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:04:44 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:04:46 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:04:47 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:04:49 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:04:50 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:04:52 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:04:53 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:04:55 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:04:57 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:04:58 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:05:00 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:05:01 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:05:03 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:05:04 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:05:06 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:05:07 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:05:09 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:05:11 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:05:12 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:05:14 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:05:15 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:29:12 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-17:29:13 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-17:29:16 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+06-Jul-2023-17:29:52 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-17:29:53 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-17:29:54 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+06-Jul-2023-17:30:31 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-17:30:31 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-17:31:16 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+06-Jul-2023-17:31:23 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+06-Jul-2023-17:31:23 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Jul-2023-17:31:24 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-17:31:26 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-17:31:27 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-17:31:29 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-17:31:33 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+06-Jul-2023-17:31:33 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Jul-2023-17:31:33 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+06-Jul-2023-17:34:43 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-17:34:44 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-17:35:22 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+06-Jul-2023-17:35:26 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+06-Jul-2023-17:35:26 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Jul-2023-17:35:27 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-17:35:28 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-17:35:30 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-17:35:32 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-17:35:35 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+06-Jul-2023-17:35:35 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Jul-2023-17:35:35 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+06-Jul-2023-17:36:05 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-17:40:40 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-17:40:43 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-17:41:18 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+06-Jul-2023-17:41:19 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+06-Jul-2023-17:41:19 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Jul-2023-17:41:20 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-17:41:21 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-17:41:23 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-17:41:24 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-17:41:25 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+06-Jul-2023-17:41:25 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Jul-2023-17:41:25 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+06-Jul-2023-17:46:22 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-17:46:25 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-17:46:55 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+06-Jul-2023-17:46:55 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+06-Jul-2023-17:46:55 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Jul-2023-17:46:56 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-17:46:58 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-17:46:59 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-17:47:01 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-17:47:04 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+06-Jul-2023-17:47:04 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Jul-2023-17:47:05 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:07 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:08 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:10 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:11 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:13 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:14 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:16 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:17 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:19 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:21 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:22 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:24 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:25 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:27 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:28 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:30 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:31 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:33 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:34 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:36 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:37 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:39 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:41 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:42 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:44 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:45 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:47 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:48 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:50 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:51 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:53 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:54 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:56 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:58 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:47:59 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:48:01 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:48:02 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:48:04 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:48:05 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='fadein']/span/span/span[1]/input
+06-Jul-2023-17:57:53 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-17:57:57 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-17:58:31 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+06-Jul-2023-17:58:31 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+06-Jul-2023-17:58:31 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Jul-2023-17:58:32 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-17:58:34 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-17:58:36 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-17:58:37 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-17:58:48 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+06-Jul-2023-17:58:48 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Jul-2023-17:58:48 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+06-Jul-2023-18:00:52 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-18:00:53 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-18:01:22 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+06-Jul-2023-18:01:22 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+06-Jul-2023-18:01:22 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Jul-2023-18:01:23 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-18:01:25 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-18:01:26 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-18:01:28 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-18:01:29 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+06-Jul-2023-18:01:29 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Jul-2023-18:01:29 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+06-Jul-2023-22:26:20 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-22:26:23 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-22:26:45 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+06-Jul-2023-22:26:46 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+06-Jul-2023-22:26:46 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Jul-2023-22:26:47 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-22:26:49 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-22:26:50 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-22:26:52 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-22:26:54 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+06-Jul-2023-22:26:54 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Jul-2023-22:26:55 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:26:56 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:26:58 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:01 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:02 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:04 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:05 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:07 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:08 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:10 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:11 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:13 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:15 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:16 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:18 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:19 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:21 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:23 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:24 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:26 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:30 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:31 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:33 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:35 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:36 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:38 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:39 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:41 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:42 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:44 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:45 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:47 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:48 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:50 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:52 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:53 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:27:55 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:29:37 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-22:29:38 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-22:29:53 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+06-Jul-2023-22:29:53 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+06-Jul-2023-22:29:53 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Jul-2023-22:29:54 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-22:29:56 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-22:29:57 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-22:29:59 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-22:29:59 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+06-Jul-2023-22:29:59 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Jul-2023-22:30:00 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:02 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:03 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:05 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:06 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:08 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:10 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:11 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:13 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:14 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:16 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:17 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:19 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:20 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:22 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:23 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:25 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:27 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:28 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:30 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:31 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:33 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:34 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:36 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:37 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:39 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:41 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:42 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:44 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:45 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:47 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:48 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:50 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:51 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:53 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:55 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:56 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:58 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:30:59 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:31:01 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:35:38 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Jul-2023-22:35:39 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+06-Jul-2023-22:35:46 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+06-Jul-2023-22:35:46 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+06-Jul-2023-22:35:46 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Jul-2023-22:35:47 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-22:35:49 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-22:35:50 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-22:35:52 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+06-Jul-2023-22:35:52 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+06-Jul-2023-22:35:52 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Jul-2023-22:35:53 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:35:55 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:35:56 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:35:58 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:35:59 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:01 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:02 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:04 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:05 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:07 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:08 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:10 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:11 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:13 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:15 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:16 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:18 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:19 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:21 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:22 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:24 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:25 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:27 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:28 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:30 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:32 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:33 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:35 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:36 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:38 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:39 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:41 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:42 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:44 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:46 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:47 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:49 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:50 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:52 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:53 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='onereturn']/div[1]/div[1]/div[2]/span/span[1]/span
+06-Jul-2023-22:36:54 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

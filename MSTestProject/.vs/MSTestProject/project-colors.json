@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7d0c0dff-8084-4f3b-9152-7c61d9113f9a": {
+      "ProjectGuid": "7d0c0dff-8084-4f3b-9152-7c61d9113f9a",
+      "DisplayName": "MSTestProject",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
