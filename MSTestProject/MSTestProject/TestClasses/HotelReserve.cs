@@ -65,7 +65,7 @@ namespace PHPTRAVELS_MSTest
 
         private IWebElement searchBtn => driver.FindElement(searchBtn_By);
 
-
+         
         [TestMethod("جستجوی هتل با تاریخ، مقصد، اتاق و تعداد نفرات معتبر")]
         public void searchByAllValidFields()
         {
