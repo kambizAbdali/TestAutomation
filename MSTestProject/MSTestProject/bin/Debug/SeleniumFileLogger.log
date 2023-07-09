@@ -1760,3 +1760,1027 @@
 07-Jul-2023-17:59:24 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
 07-Jul-2023-18:01:14 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
 07-Jul-2023-18:01:15 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-00:11:47 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-00:11:52 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-00:12:18 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-00:12:18 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:12:18 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:12:20 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-00:12:21 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-00:12:23 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-00:12:24 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-00:12:26 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:12:26 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:12:26 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-00:12:26 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:12:26 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:12:26 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-00:12:27 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:12:27 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:12:27 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-00:16:54 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-00:16:55 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-00:17:15 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-00:17:15 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:17:15 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:17:16 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-00:17:18 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-00:17:19 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-00:17:21 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-00:17:22 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:17:22 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:17:22 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-00:17:23 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:17:23 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:17:23 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-00:17:24 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:17:24 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:17:24 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-00:19:48 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-00:19:49 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-00:20:09 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-00:20:09 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:20:09 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:20:10 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-00:20:11 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-00:20:13 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-00:20:14 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-00:20:15 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:20:15 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:20:15 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-00:20:15 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:20:15 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:20:15 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-00:20:16 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:20:16 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:20:16 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-00:26:42 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-00:26:43 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-00:27:09 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-00:27:09 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:27:09 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:27:10 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-00:27:12 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-00:27:13 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-00:27:15 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-00:27:17 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:27:17 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:27:19 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-00:27:19 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:27:19 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:27:19 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-00:27:19 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:27:19 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:27:19 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-00:27:45 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:27:45 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:27:45 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-00:49:18 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-00:49:19 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-00:50:35 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-00:50:35 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:50:35 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:50:36 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-00:50:38 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-00:50:39 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-00:50:41 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-00:50:44 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:50:44 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:50:44 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-00:50:44 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:50:44 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:50:44 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-00:50:45 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:50:45 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:50:45 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-00:50:51 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:50:51 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:50:52 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-00:52:57 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-00:52:57 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-00:53:16 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-00:53:16 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:53:16 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:53:17 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-00:53:19 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-00:53:20 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-00:53:22 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-00:53:22 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:53:22 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:53:22 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-00:53:22 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:53:22 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:53:22 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-00:53:55 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-00:53:55 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-00:54:21 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-00:54:21 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-00:54:39 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-00:54:39 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:54:39 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:54:40 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-00:54:42 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-00:54:43 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-00:54:45 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-00:54:45 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:54:45 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:54:45 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-00:54:45 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:54:45 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:54:45 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-00:54:46 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:54:46 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:54:46 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-00:54:57 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:54:57 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:54:57 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-00:57:38 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+09-Jul-2023-00:58:53 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-00:58:54 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-00:59:16 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-00:59:16 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:59:16 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:59:17 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-00:59:19 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-00:59:21 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-00:59:22 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-00:59:23 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:59:23 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:59:23 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-00:59:23 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:59:23 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:59:23 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-00:59:24 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-00:59:24 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-00:59:24 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-01:01:18 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-01:01:19 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-01:01:33 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-01:01:33 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-01:01:33 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-01:01:35 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:01:36 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:01:38 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:01:39 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:01:42 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-01:01:42 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-01:01:42 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-01:01:42 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-01:01:42 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-01:01:42 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-01:01:43 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-01:01:43 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-01:01:43 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-01:04:18 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-01:04:18 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-01:04:37 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-01:04:38 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-01:04:38 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-01:04:39 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:04:40 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:04:42 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:04:43 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:04:43 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-01:04:43 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-01:04:43 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-01:04:44 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-01:04:44 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-01:04:44 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-01:04:44 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-01:04:44 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-01:04:44 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-01:14:11 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-01:14:14 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-01:14:36 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-01:14:37 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-01:14:37 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-01:14:38 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:14:39 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:14:41 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:14:42 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:14:44 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-01:14:44 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-01:14:44 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-01:14:44 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-01:14:44 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-01:14:44 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-01:14:45 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-01:14:45 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-01:14:45 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-01:17:02 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-01:17:05 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-01:17:23 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-01:17:23 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-01:17:23 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-01:17:24 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:17:26 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:17:28 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:17:29 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:17:32 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-01:17:32 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-01:17:32 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-01:17:32 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-01:17:32 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-01:17:32 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-01:17:33 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-01:17:33 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-01:17:33 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-01:23:00 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-01:23:01 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-01:25:36 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-01:25:40 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-01:26:56 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-01:26:56 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-01:26:56 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-01:26:57 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:26:59 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:27:00 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:27:02 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:27:05 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-01:27:05 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-01:27:05 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-01:27:07 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-01:27:07 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-01:27:07 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-01:27:09 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-01:27:09 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-01:27:09 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-01:40:22 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-01:40:25 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-01:43:53 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-01:43:54 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-01:44:57 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-01:44:57 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-01:44:57 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-01:44:58 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:45:00 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:45:02 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:45:03 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:45:08 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-01:45:08 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-01:45:09 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-01:45:09 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-01:45:09 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-01:45:09 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-01:50:09 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-01:50:11 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-01:51:24 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-01:51:24 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-01:51:24 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-01:51:25 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:51:27 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:51:29 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:51:30 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:51:30 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-01:51:30 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-01:51:31 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='tab']/li[1]/button
+09-Jul-2023-01:51:33 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='tab']/li[1]/button
+09-Jul-2023-01:51:34 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='tab']/li[1]/button
+09-Jul-2023-01:51:36 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='tab']/li[1]/button
+09-Jul-2023-01:51:37 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='tab']/li[1]/button
+09-Jul-2023-01:51:39 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='tab']/li[1]/button
+09-Jul-2023-01:51:41 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='tab']/li[1]/button
+09-Jul-2023-01:51:42 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='tab']/li[1]/button
+09-Jul-2023-01:51:44 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='tab']/li[1]/button
+09-Jul-2023-01:51:45 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='tab']/li[1]/button
+09-Jul-2023-01:51:47 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='tab']/li[1]/button
+09-Jul-2023-01:51:48 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='tab']/li[1]/button
+09-Jul-2023-01:51:50 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='tab']/li[1]/button
+09-Jul-2023-01:51:51 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='tab']/li[1]/button
+09-Jul-2023-01:51:53 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='tab']/li[1]/button
+09-Jul-2023-01:51:54 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='tab']/li[1]/button
+09-Jul-2023-01:51:56 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='tab']/li[1]/button
+09-Jul-2023-01:53:05 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='tab']/li[1]/button
+09-Jul-2023-01:54:19 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-01:54:19 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-01:56:47 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-01:56:47 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-01:56:47 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-01:56:48 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:56:49 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:56:51 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:56:53 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:56:53 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-01:56:53 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-01:56:53 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-01:56:53 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-01:56:53 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-01:56:53 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-01:59:16 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-01:59:16 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-01:59:53 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-01:59:53 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-01:59:53 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-01:59:54 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:59:55 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:59:57 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:59:58 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-01:59:59 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-01:59:59 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-01:59:59 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-01:59:59 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-01:59:59 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-01:59:59 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-01:59:59 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-01:59:59 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-01:59:59 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-02:01:43 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-02:01:43 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-02:02:19 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-02:02:19 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:02:19 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:02:20 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:02:21 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:02:23 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:02:24 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:02:25 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:02:25 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:02:25 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-02:02:25 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:02:25 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:02:25 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-02:02:25 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:02:25 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:02:25 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-02:05:44 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-02:05:45 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-02:06:13 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-02:06:13 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:06:13 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:06:14 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:06:16 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:06:17 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:06:19 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:06:25 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:06:25 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:06:31 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-02:06:34 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:06:34 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:06:34 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-02:06:35 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:06:35 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:06:35 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-02:13:29 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-02:13:30 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-02:13:46 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-02:13:46 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:13:46 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:13:47 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:13:49 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:13:50 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:13:52 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:13:52 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:13:52 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:13:52 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-02:13:52 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:13:52 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:13:52 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-02:13:53 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:13:53 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:13:53 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-02:15:58 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-02:15:59 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-02:16:23 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-02:16:23 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:16:23 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:16:24 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:16:26 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:16:29 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:16:29 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:16:29 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:16:29 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-02:16:29 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:16:29 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:16:29 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-02:16:30 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:16:30 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:16:30 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-02:22:33 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-02:22:34 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-02:23:51 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-02:23:51 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:23:51 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:23:52 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:23:54 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:23:55 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:23:57 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:23:58 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:23:58 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:23:58 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-02:23:59 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:23:59 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:23:59 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-02:24:04 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:24:04 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:24:04 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-02:29:05 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-02:29:06 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-02:29:26 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-02:29:26 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:29:26 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:29:27 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:29:28 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:29:30 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:29:32 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:29:32 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:29:32 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:29:32 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-02:29:32 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:29:32 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:29:32 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-02:29:34 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:29:34 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:29:34 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-02:34:49 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-02:34:50 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-02:35:15 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-02:35:15 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:35:15 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:35:16 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:35:18 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:35:19 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:35:21 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:35:21 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:35:21 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:35:21 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-02:35:21 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:35:21 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:35:21 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-02:35:22 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:35:22 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:35:22 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-02:43:28 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-02:43:29 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-02:43:58 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-02:43:59 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:43:59 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:44:00 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:44:01 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:44:03 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:44:04 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:44:05 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:44:05 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:44:05 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-02:44:05 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:44:05 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:44:05 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-02:44:05 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:44:05 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:44:05 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-02:46:23 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-02:46:24 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-02:46:42 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-02:46:42 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:46:42 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:46:43 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:46:45 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:46:46 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:46:48 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:46:48 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:46:48 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:46:48 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-02:46:48 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:46:48 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:46:48 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-02:46:49 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:46:49 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:46:49 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-02:52:24 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-02:52:24 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-02:52:50 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-02:52:50 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:52:51 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:52:52 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:52:53 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:52:55 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:52:56 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:52:56 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:52:56 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:52:56 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-02:52:57 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:52:57 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:52:57 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-02:52:57 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:52:57 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:52:57 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-02:58:15 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-02:58:17 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-02:58:32 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-02:58:32 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:58:32 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:58:33 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:58:35 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:58:36 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:58:38 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-02:58:38 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:58:38 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:58:38 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-02:58:38 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:58:38 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:58:38 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-02:58:39 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-02:58:39 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-02:58:39 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-03:01:47 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-03:01:56 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-03:02:15 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-03:02:15 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-03:02:15 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-03:02:16 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-03:02:18 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-03:02:20 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-03:02:21 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-03:02:23 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-03:02:23 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-03:02:23 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-03:02:23 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-03:02:23 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-03:02:23 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-03:02:24 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-03:02:24 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-03:02:24 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-03:07:21 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-03:07:22 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-03:07:44 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-03:07:45 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-03:07:45 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-03:07:46 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-03:07:48 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-03:07:49 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-03:07:51 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-03:07:51 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-03:07:51 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-03:07:51 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-03:07:51 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-03:07:51 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-03:07:51 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-03:07:52 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-03:07:52 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-03:07:52 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-03:10:20 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-03:10:20 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-03:10:39 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-03:10:39 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-03:10:39 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-03:10:41 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-03:10:42 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-03:10:44 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-03:10:45 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-03:10:46 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-03:10:46 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-03:10:46 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-03:10:46 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-03:10:46 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-03:10:46 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-03:10:47 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-03:10:47 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-03:10:47 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-03:13:14 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-03:13:21 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-03:13:42 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-03:13:42 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-03:13:42 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-03:13:43 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-03:13:45 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-03:13:46 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-03:13:48 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-03:13:50 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-03:13:50 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-03:13:50 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-03:13:50 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-03:13:50 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-03:13:50 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-03:13:51 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-03:13:51 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-03:13:51 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-03:17:01 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-03:17:05 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-03:17:42 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-03:17:42 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-03:17:42 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-03:17:43 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-03:17:44 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-03:17:46 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-03:17:47 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-03:17:49 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-03:17:49 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-03:17:49 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-03:17:49 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-03:17:49 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-03:17:49 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-03:17:49 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-03:17:49 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-03:17:49 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-03:23:16 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-03:23:19 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-03:23:44 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-03:23:44 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-03:23:44 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-03:23:45 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-03:23:47 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-03:23:48 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-03:23:50 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-03:23:51 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-03:23:51 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-03:23:51 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-03:23:51 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-03:23:51 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-03:23:51 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-03:23:51 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-03:23:51 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-03:23:51 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-03:26:07 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-03:26:17 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-03:27:00 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-03:27:00 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-03:27:00 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-03:27:03 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-03:27:04 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-03:27:06 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-03:27:14 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-03:27:14 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-03:27:14 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-03:27:14 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-03:27:14 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-03:27:15 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-03:27:15 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-03:27:15 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-03:27:15 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-03:29:22 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-03:29:22 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-03:29:22 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-03:55:22 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-03:55:25 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-03:56:05 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-03:56:05 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-03:56:05 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-03:56:07 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-03:56:08 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-03:56:10 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-03:56:11 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-03:56:40 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-03:56:40 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-03:56:40 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-03:57:44 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-03:57:44 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-03:57:44 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-04:11:56 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-04:11:57 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-04:12:50 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-04:12:51 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-04:12:51 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-04:12:52 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-04:12:54 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-04:12:56 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-04:13:10 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-04:13:10 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-04:13:11 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-04:14:47 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-04:14:47 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-04:14:47 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-04:15:05 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-04:15:05 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-04:15:05 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-04:16:44 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-04:16:44 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-04:16:45 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:16:46 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:16:48 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:16:49 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:16:51 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:16:52 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:16:54 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:16:55 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:16:57 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:16:59 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:17:00 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:17:02 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:17:03 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:17:05 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:17:06 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:17:08 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:17:09 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:17:11 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:17:13 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:17:14 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:17:16 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:17:17 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:17:19 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:17:21 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:17:22 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:17:24 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:17:25 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:17:27 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:17:28 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:17:30 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:17:31 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:17:33 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:17:35 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:17:36 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:17:38 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:17:39 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:17:41 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:17:42 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:17:44 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //*[@id='hotels - search']/div/div[4]/div/div/div/div/div[2]/div/div/div[2]/svg
+09-Jul-2023-04:39:57 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-04:40:00 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-04:40:45 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-04:40:45 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-04:40:45 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-04:40:46 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-04:40:48 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-04:40:50 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-04:40:52 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-04:41:25 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-04:41:25 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-04:41:26 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-04:50:14 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-04:50:39 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-04:51:17 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-04:51:17 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-04:51:17 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-04:51:18 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-04:51:20 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-04:51:22 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-04:51:23 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-04:51:25 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-04:51:25 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-04:51:26 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-04:51:26 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-04:51:26 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-04:51:26 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-04:56:29 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-04:56:31 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-04:56:57 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-04:56:57 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-04:56:57 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-04:56:58 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-04:57:00 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-04:57:01 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-04:57:03 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-04:57:05 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-04:57:05 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-04:57:06 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-04:57:08 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-04:57:08 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-04:57:08 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-04:58:14 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-04:58:14 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-04:58:14 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-04:58:23 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-04:58:23 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-04:58:23 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-05:03:59 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-05:04:02 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-05:04:19 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-05:04:19 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-05:04:19 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-05:04:20 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-05:04:23 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-05:04:24 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-05:04:26 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-05:04:26 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-05:04:26 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-05:04:26 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-05:04:26 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-05:04:26 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-05:04:32 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-05:04:32 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-05:04:32 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-05:08:08 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-05:08:13 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-05:10:36 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-05:10:44 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-05:13:33 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-05:13:35 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-05:14:12 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-05:14:12 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-05:14:12 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-05:14:13 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-05:14:15 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-05:14:16 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-05:14:18 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-05:14:21 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-05:14:21 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-05:14:22 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-05:14:22 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-05:14:22 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-05:14:22 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-05:14:31 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-05:14:31 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-05:14:32 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-05:14:59 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-05:14:59 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-05:14:59 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-05:15:06 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-05:15:06 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-05:15:06 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-05:15:10 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-05:15:10 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-05:15:10 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-05:15:16 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-05:15:16 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-05:15:16 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-05:19:20 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-05:19:26 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-05:20:10 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-05:20:11 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-05:20:11 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-05:20:12 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-05:20:13 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-05:20:15 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-05:20:16 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-05:20:19 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-05:20:19 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-05:20:19 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-05:20:19 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-05:20:19 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-05:20:19 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-05:20:20 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-05:20:20 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-05:20:20 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-05:20:20 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-05:20:20 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-05:20:20 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-05:20:21 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-05:20:21 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-05:20:21 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-05:20:21 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-05:20:21 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-05:20:21 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-05:20:21 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-05:20:21 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-05:20:21 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-05:22:58 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-05:23:01 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-05:23:36 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-05:23:37 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-05:23:37 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-05:23:38 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-05:23:39 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-05:23:41 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-05:23:42 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-05:24:06 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-05:24:06 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-05:24:06 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-05:24:06 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-05:24:06 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-05:24:06 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-05:24:07 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-05:24:07 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-05:24:07 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-05:24:08 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-05:24:08 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-05:24:08 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-05:24:08 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-05:24:08 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-05:24:08 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-05:24:08 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-05:24:09 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-05:24:09 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-05:24:09 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-05:24:09 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-05:24:09 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-05:25:13 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-05:25:13 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-05:25:13 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-12:01:51 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-12:01:52 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-12:03:48 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-12:03:48 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-12:03:48 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-12:03:49 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-12:03:51 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-12:03:52 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-12:03:54 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-12:03:56 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-12:03:56 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-12:03:56 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-12:03:56 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-12:03:56 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-12:03:57 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:03:58 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:04:00 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:04:02 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:04:03 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:04:05 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:04:06 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:04:08 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:04:09 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:04:11 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:04:12 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:04:14 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:04:15 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:04:17 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:04:19 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:04:20 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:04:22 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:04:23 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:04:25 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:06:26 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-12:06:27 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-12:08:07 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-12:08:07 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-12:08:07 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-12:08:08 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-12:08:10 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-12:08:11 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-12:08:13 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-12:08:14 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-12:08:14 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-12:08:14 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-12:08:14 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-12:08:14 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-12:08:15 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:08:17 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:08:18 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:08:20 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:08:21 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:08:23 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:08:24 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:08:26 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:08:27 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:08:29 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:08:30 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:08:32 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:08:33 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:08:35 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:08:36 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:08:38 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:08:40 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:08:41 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:08:43 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:08:44 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:08:46 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:08:47 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:08:49 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:08:50 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:08:52 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:08:54 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:08:55 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:08:57 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:08:58 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:09:00 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:09:01 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:09:03 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:09:04 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:09:06 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:09:07 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:09:09 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:09:11 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:09:12 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:09:14 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:09:15 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.CssSelector: a.dropdown-toggle.dropdown-btn.travellers.d-flex.align-items-center.waves-effect
+09-Jul-2023-12:16:36 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-12:16:37 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-12:17:50 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-12:17:50 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-12:17:50 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-12:17:51 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-12:17:52 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-12:17:54 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-12:17:55 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-12:17:56 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-12:17:56 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-12:17:56 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-12:17:57 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-12:17:57 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-12:17:57 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-12:17:57 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-12:17:57 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-12:17:57 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-12:17:58 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-12:17:58 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-12:17:58 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-12:17:58 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-12:17:58 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-12:17:58 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-12:17:58 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-12:17:58 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-12:17:58 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-12:17:58 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-12:17:58 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-12:17:58 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-12:17:58 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-12:17:58 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-12:17:58 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-12:20:05 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-12:20:06 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-12:33:00 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Jul-2023-12:33:00 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+09-Jul-2023-12:33:35 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://phptravels.net/#
+09-Jul-2023-12:33:35 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-12:33:35 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-12:33:36 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-12:33:37 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-12:33:39 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-12:33:41 [SeleniumWebdriver.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.Id: details-button
+09-Jul-2023-12:33:43 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-12:33:43 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-12:33:43 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-12:33:43 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-12:33:43 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-12:33:43 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Jul-2023-12:33:44 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait to 1 sec 
+09-Jul-2023-12:33:44 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Jul-2023-12:33:44 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 

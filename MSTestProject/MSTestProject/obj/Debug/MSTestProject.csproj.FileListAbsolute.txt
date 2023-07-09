@@ -65,3 +65,7 @@ C:\Users\Kambiz\source\repos\MSTestProject\MSTestProject\bin\Debug\ru\Microsoft.
 C:\Users\Kambiz\source\repos\MSTestProject\MSTestProject\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
 C:\Users\Kambiz\source\repos\MSTestProject\MSTestProject\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
 C:\Users\Kambiz\source\repos\MSTestProject\MSTestProject\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Kambiz\source\repos\PHPTravels\TestAutomation\MSTestProject\MSTestProject\obj\Debug\MSTestProject.csproj.AssemblyReference.cache
+C:\Users\Kambiz\source\repos\PHPTravels\TestAutomation\MSTestProject\MSTestProject\obj\Debug\MSTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Kambiz\source\repos\PHPTravels\TestAutomation\MSTestProject\MSTestProject\obj\Debug\MSTestProject.dll
+C:\Users\Kambiz\source\repos\PHPTravels\TestAutomation\MSTestProject\MSTestProject\obj\Debug\MSTestProject.pdb
